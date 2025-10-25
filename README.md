@@ -54,7 +54,7 @@ Heart disease remains a leading global health challenge. Identifying at-risk ind
 
 ---
 
-## **Technologies & Skills Demonstrated**
+## **Technologies & Skills**
 
 | Skill / Tool | Description |
 |-------------|-------------|
