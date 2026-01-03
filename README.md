@@ -63,14 +63,3 @@ Heart disease remains a leading global health challenge. Identifying at-risk ind
 | **Machine Learning** | Model training and prediction |
 | **Statistics** | Evaluation of model reliability using statistical metrics |
 | **Jupyter Notebook** | Experiment execution and result visualization |
-
----
-
-## **Getting Started**
-
-Clone the repository and open the notebook:
-
-```bash
-git clone https://github.com/your-username/heart-attack-model-comparison.git
-cd heart-attack-model-comparison
-jupyter notebook HeartAttack_Model_Comparison.ipynb
